@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node intro.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
