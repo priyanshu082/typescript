@@ -19,3 +19,5 @@ let usertest={name:"Priyanshu" ,isPaid:false,email:"priyanshusingh216@gmail.com"
 function createCourse():{name:string,price:number}{
     return { name:"React",price:5000}
 }
+
+export{}
