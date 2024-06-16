@@ -21,3 +21,5 @@ users.push({name:"priyanshu",age:53})
 
 //defiining 2d array
 const matrix:number[][]=[]
+
+export{}
