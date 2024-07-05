@@ -20,8 +20,10 @@ let priyanshu : User | Admin={name:"hitesh",id:334}
 
 // now priyanshu can be with like User or can also be assigned as Admin
 priyanshu={name:"Priyanshu",age:43}
+console.log(priyanshu)
 //it is also not showing any issue
 priyanshu={name:"Priyanshu",id:43}
+console.log(priyanshu) 
 
 const getDbId=(id:number | string) =>{
     console.log(`DB iD is ${id}`)
